@@ -3,15 +3,16 @@ Preparing for internships can be an intense task, especially when it comes to sh
 
 Whether you're just starting or looking to expand your portfolio, we’ve got 10 Machine Learning Projects to showcase your skills. Here is the list of projects which will help you increase in domain knowledge and then move to practice coding to enhance your learning:
 
-American Express
-Image Based Recognition
-Netflix Movie Recommendation
-Pokemon Pokedesk
-Amazon User Segmentation
-Zomato Review
-Breast Cancer Detection
-Facebook ads
-Big Basket
-Dogs & Cats Prediction
-Coding Practice 
+-American Express
+-Image Based Recognition
+-Netflix Movie Recommendation
+-Pokemon Pokedesk
+-Amazon User Segmentation
+-Zomato Review
+-Breast Cancer Detection
+-Facebook ads
+-Big Basket
+-Dogs & Cats Prediction
+-Coding Practice 
+
 They will help you stand out in the competitive internship market and speak for your passion for your domain. So, begin your smart Interview prep now!
